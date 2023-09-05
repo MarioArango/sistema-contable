@@ -1,0 +1,8 @@
+.container-header {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    width: 100%;
+    background-color: white;
+    height: 50px;
+}

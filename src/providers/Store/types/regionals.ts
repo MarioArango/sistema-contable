@@ -1,0 +1,9 @@
+export enum ActionTypeGetRegionals {
+    GET_REGIONALS_START = 'GET_REGIONALS_START',
+    GET_REGIONALS_SUCCESS = 'GET_REGIONALS_SUCCESS',
+    GET_REGIONALS_ERROR = 'GET_REGIONALS_ERROR'
+}
+
+export enum ActionTypeSetRegional {
+    SET_REGIONAL = 'SET_REGIONAL'
+}
